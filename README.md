@@ -44,7 +44,8 @@ The buffer value is set in
 
 HDMI Audio is started by systemd the unit can be found at:
 
-/etc/systemd/system
+/etc/systemd/system/HDMI-audio.service
+
 
 **Setting timezones**
 
