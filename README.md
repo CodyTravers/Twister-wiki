@@ -42,7 +42,7 @@ The buffer value is set in
 
 /etc/MicrophoneLoopback/MicrophoneLoopback.conf
 
-HDMI Audio is started by systemd the unit can be found at:
+HDMI Audio is started by systemd, the unit can be found at:
 
 /etc/systemd/system/HDMI-audio.service
 
