@@ -22,7 +22,29 @@ Edit /etc/systemd/system/media-fat-games.mount
 Press F9 while in the Menu core.
 
 ```systemctl enable media-fat-games.mount```
+
 ```systemctl start media-fat-games.mount```
 
+To stop/dsable CIFS press F9 while in the Menu core.
 
+```systemctl disable media-fat-games.mount```
 
+```systemctl stop media-fat-games.mount```
+
+**HDMI Audio buffer**
+
+Set the number of frames per buffer, a lower value will decrease the latency, but will increase cpu overhead and glitches. The default value is 256.
+
+The buffer value is set in
+
+/etc/MicrophoneLoopback/MicrophoneLoopback.conf
+
+**Setting timezones**
+
+Press F9 while in the Menu core. 
+
+Find your times zone:
+
+```timedatectl list-timezones```
+
+```timedatectl set-timezone <timezone>```
