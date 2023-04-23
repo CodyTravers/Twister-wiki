@@ -1,5 +1,8 @@
 # Twister-wiki
 
+![alt text](https://raw.githubusercontent.com/CodyTravers/Twister-wiki/main/TwisterFPGA.png?raw=true)
+
+
 Demo images are all 32GB right now. 
 I suspect this will change in the future. 
 
