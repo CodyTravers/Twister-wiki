@@ -43,7 +43,7 @@ The buffer value is set in
 
 Press F9 while in the Menu core. 
 
-Find your times zone:
+Find your timezone:
 
 ```timedatectl list-timezones```
 
