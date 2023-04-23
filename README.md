@@ -42,6 +42,10 @@ The buffer value is set in
 
 /etc/MicrophoneLoopback/MicrophoneLoopback.conf
 
+HDMI Audio is started by systemd the unit can be found at:
+
+/etc/systemd/system
+
 **Setting timezones**
 
 Press F9 while in the Menu core. 
