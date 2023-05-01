@@ -35,6 +35,7 @@ To stop/dsable CIFS press F9 while in the Menu core.
 ```systemctl disable media-fat-cifs.mount```
 
 ```systemctl stop media-fat-cifs.mount```
+
 **HDMI Audio buffer**
 
 Set the number of frames per buffer, a lower value will decrease the latency, but will increase cpu overhead and glitches. The default value is 256.
