@@ -61,7 +61,7 @@ Find your timezone:
 
 **Install img files**
 
-Install image files include a first boot process that autoexpand the /media/fat/ partition to fill the SD Card with a exfat partition.
+Install image files include a first boot process that auto-expands the /media/fat/ partition to fill the remaining space on SD Card with a exfat partition.
 
 The first boot process takes under 2 minutes and the will reboot to the MiSTer Menu when complete. 
 
