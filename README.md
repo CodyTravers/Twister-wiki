@@ -11,7 +11,7 @@ Install image files include a first boot process that auto-expands the /media/fa
 
 The first boot process takes under 2 minutes and the will reboot to the MiSTer Menu when complete. 
 
-Twister can then be updated via the normal update process.
+Twister can then be updated via the normal update process (when this becomes avalible).
 
 
 **Wifi:**
