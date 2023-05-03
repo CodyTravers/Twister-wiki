@@ -3,8 +3,16 @@
 ![alt text](https://raw.githubusercontent.com/CodyTravers/Twister-wiki/main/TwisterFPGA.png?raw=true)
 
 
-Demo images are all 32GB right now. 
-I suspect this will change in the future. 
+Most demo images are all 32GB other than install images.
+
+**Install img files**
+
+Install image files include a first boot process that auto-expands the /media/fat/ partition to fill the remaining space on SD Card with an exfat partition. Install image files require an SD Card of 8GB or larger.
+
+The first boot process takes under 2 minutes and the will reboot to the MiSTer Menu when complete. 
+
+Twister can then be updated via the normal update process.
+
 
 **Wifi:**
 
@@ -59,11 +67,5 @@ Find your timezone:
 
 ```timedatectl set-timezone <timezone>```
 
-**Install img files**
 
-Install image files include a first boot process that auto-expands the /media/fat/ partition to fill the remaining space on SD Card with an exfat partition. Install image files require an SD Card of 8GB or larger.
-
-The first boot process takes under 2 minutes and the will reboot to the MiSTer Menu when complete. 
-
-Twister can then be updated via the normal update process.
 
