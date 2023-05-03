@@ -28,11 +28,9 @@ Press F11 while in the Menu core and follow the on screen prompts
 
 **CIFS:**
 
-**CIFS:**
-
-Edit /etc/systemd/system/media-fat-cifs.mount 
-
 Press F9 while in the Menu core.
+
+Edit /etc/systemd/system/media-fat-cifs.mount and add the correct information.
 
 ```systemctl enable media-fat-cifs.mount```
 
