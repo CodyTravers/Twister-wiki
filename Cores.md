@@ -32,8 +32,6 @@
 
 <!-- arcade_list_end -->
 
-## also check the list of [JOTEGO's arcade cores](https://github.com/jotego/jtbin/wiki)
-
 ### [Alternative MRA versions for Arcade cores](https://github.com/MiSTer-devel/MRA-Alternatives_MiSTer)
 
 <!-- cores_list_start -->
