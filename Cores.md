@@ -25,7 +25,7 @@
 <!-- arcade_list_start -->
 ## Arcades
 
-|Core<img width=293/>| Additional&nbsp;arcades | SDRAM&nbsp;Required? | Comments |
+|Core<img width=293/>| Additional&nbsp;arcades | SDRAM&nbsp;Required? | Comments        |
 |:---|:---|:---:|:---:|
  [CPS1](https://TwisterFPGA.com/coming_soon) |CPS1| NO | |
  [CPS15](https://TwisterFPGA.com/coming_soon) |CPS15| NO | |
