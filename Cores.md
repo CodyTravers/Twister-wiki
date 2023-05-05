@@ -13,7 +13,7 @@
 | [Game Boy, Game Boy Color](https://TwisterFPGA.com/coming_soon) |GAMEBOY| NO | |
 | [Nintendo Entertainment System (NES)](https://TwisterFPGA.com/coming_soon) |NES| NO | |
 | [Sega CD/Mega-CD](https://TwisterFPGA.com/coming_soon) |MegaCD| NO | Has audio gliches |
-| [Sega Genesis/Mega Drive](https://TwisterFPGA.com/coming_soon) |Genesis| No | |
+| [Sega Genesis/Mega Drive](https://TwisterFPGA.com/coming_soon) |Genesis| NO | |
 | [Sega Master System, Game Gear](https://TwisterFPGA.com/coming_soon) |SMS| NO | |
 | [Super Nintendo Entertainment System (SNES)](https://TwisterFPGA.com/coming_soon) |SNES| NO | Has no enhancement chips |
 
