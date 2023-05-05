@@ -5,17 +5,17 @@
 ## Computers
 |Core<img width=293/>| Home&nbsp;folder<img width=67/>| SDRAM&nbsp;Required? | Comments |
 |:---|:---|:---:|:---:|
-
+[Minimmig](https://TwisterFPGA.com/coming_soon) |Amiga| NO | |
 
 ## Consoles
 |Core<img width=293/>| Home&nbsp;folder<img width=67/>| SDRAM&nbsp;Required? | Comments |
 |:---|:---|:---:|:---:|
-| [Game Boy, Game Boy Color](https://github.com/MiSTer-devel/Gameboy_MiSTer) |GAMEBOY| Yes | |
-| [Nintendo Entertainment System (NES)](https://github.com/MiSTer-devel/NES_MiSTer) |NES| Yes | |
-| [Sega CD/Mega-CD](https://github.com/MiSTer-devel/MegaCD_MiSTer) |MegaCD| Yes | |
-| [Sega Genesis/Mega Drive](https://github.com/MiSTer-devel/Genesis_MiSTer) |Genesis| No | |
-| [Sega Master System, Game Gear](https://github.com/MiSTer-devel/SMS_MiSTer) |SMS| Yes | |
-| [Super Nintendo Entertainment System (SNES)](https://github.com/MiSTer-devel/SNES_MiSTer) |SNES| Yes | |
+| [Game Boy, Game Boy Color](https://TwisterFPGA.com/coming_soon) |GAMEBOY| NO | |
+| [Nintendo Entertainment System (NES)](https://TwisterFPGA.com/coming_soon) |NES| NO | |
+| [Sega CD/Mega-CD](https://TwisterFPGA.com/coming_soon) |MegaCD| NO | Has audio gliches |
+| [Sega Genesis/Mega Drive](https://TwisterFPGA.com/coming_soon) |Genesis| No | |
+| [Sega Master System, Game Gear](https://TwisterFPGA.com/coming_soon) |SMS| NO | |
+| [Super Nintendo Entertainment System (SNES)](https://TwisterFPGA.com/coming_soon) |SNES| NO | Has no enhancement chips |
 
 ## Other Systems
 |Core<img width=293/>| Home&nbsp;folder<img width=67/>| SDRAM&nbsp;Required? | Comments |
@@ -27,6 +27,8 @@
 
 |Core<img width=293/>| Additional&nbsp;arcades | SDRAM&nbsp;Required? | Comments |
 |:---|:---|:---:|:---:|
+ [CPS1](https://TwisterFPGA.com/coming_soon) |CPS1| NO | |
+ [CPS15](https://TwisterFPGA.com/coming_soon) |CPS15| NO | |
 
 <!-- arcade_list_end -->
 
@@ -39,6 +41,6 @@
 ## Service
 |Core<img width=293/>| Home&nbsp;folder<img width=67/>| SDRAM&nbsp;Required? | Comments |
 |:---|:---|:---:|:---:|
-| [Boot Menu](https://github.com/MiSTer-devel/Menu_MiSTer) | | No | |
+| [Boot Menu](https://TwisterFPGA.com/coming_soon) | | No | |
 
 <!-- cores_list_end -->
