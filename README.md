@@ -69,10 +69,15 @@ Find your timezone:
 
 
 ```apt update```
+
 ```apt upgrade```
+
 ```apt install twister-console```
+
 ```apt install twister-arcade```
+
 ```apt install twister-computer```
+
 ```apt install twister-utils```
 
 
