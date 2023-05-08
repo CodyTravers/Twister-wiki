@@ -6,4 +6,9 @@
 * Fix apt issues 
 * Add starting/stoping scripts for cifs and sshd 
 * Create PR for JT cores to add Twister to JTBIN
-
+* Port more cores
+* Rotation scalling for cores using the H3 scaler
+* Create filters and scanlines using the H3 scaler
+* Clean up unused options in cores 
+* Correct stero audio 
+* Reduce boot times 
