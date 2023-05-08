@@ -68,6 +68,9 @@ Find your timezone:
 **Updates**
 
 
+Press F9 while in the Menu core.
+
+
 ```apt update```
 
 ```apt upgrade```
