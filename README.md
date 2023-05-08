@@ -22,9 +22,11 @@ To set up wifi, press F9 while in the Menu core.
 
 Press F12 to return to the Menu core.
 
+
 **Bluetooth:**
 
 Press F11 while in the Menu core and follow the on screen prompts
+
 
 **CIFS:**
 
@@ -41,6 +43,7 @@ To stop/dsable CIFS press F9 while in the Menu core.
 ```systemctl disable media-fat-cifs.mount```
 
 ```systemctl stop media-fat-cifs.mount```
+
 
 **HDMI Audio buffer**
 
@@ -65,11 +68,10 @@ Find your timezone:
 
 ```timedatectl set-timezone <timezone>```
 
+
 **Updates**
 
-
 Press F9 while in the Menu core.
-
 
 ```apt update```
 
