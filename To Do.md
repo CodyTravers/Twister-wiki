@@ -6,13 +6,13 @@
 * Scripts 
     * Fix wifi script for nmtui
     * Create update scripts to call apt
-    * ~~Add starting/stoping scripts for cifs
-    * ~~Add starting stoping scripts for sshd 
+    * ~~Add starting/stoping scripts for cifs~~
+    * ~~Add starting stoping scripts for sshd~~ 
 
-* ~~Create installer 
+* ~~Create installer~~
 * Fix flash of terminal text during boot between Plymouth and MiSTer
-* ~~Understand and fix why booting fails randomly when USB storage device is pluged in 
-* ~~Fix apt/dpkg issues for fat32/exfat  
+* ~~Understand and fix why booting fails randomly when USB storage device is pluged in ~~
+* ~~Fix apt/dpkg issues for fat32/exfat  ~~
 * Create github for forked dpkg
 * Create PR for JT cores to add Twister to JTBIN
 * Port more cores
